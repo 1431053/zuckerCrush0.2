@@ -10,9 +10,9 @@ switch (host) {
             case "p":
                     var linkvid = document.getElementsByClassName("_l6uaz")[0];
                     if(linkvid == undefined){
-                    var length_photo = document.getElementsByClassName("_2di5p").length;
+                    var length_photo = document.getElementsByClassName("FFVAD").length;
                     var linkins = length_photo - 1;
-                    var link_photo = document.getElementsByClassName("_2di5p")[linkins].currentSrc;
+                    var link_photo = document.getElementsByClassName("FFVAD")[linkins].currentSrc;
                     window.open(link_photo, '_blank');
                         
                     }else{
