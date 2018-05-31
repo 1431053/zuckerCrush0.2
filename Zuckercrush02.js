@@ -20,9 +20,9 @@ switch (host) {
                         window.open(linkvid, '_blank');
                     }
             case "stories":
-                    var photo = document.getElementsByClassName('_ntjhp')[0].src;
+                    var photo = document.getElementsByClassName('y-yJ5')[0].src;
                 if(photo == null){
-                    var video = document.getElementsByClassName('_ntjhp')[2].currentSrc;
+                    var video = document.getElementsByClassName('y-yJ5')[2].currentSrc;
                     window.open(video, '_blank'); 
                 }
                 else{
