@@ -8,7 +8,7 @@ switch (host) {
     case "www.instagram.com":
         switch(ps) {
             case "p":
-                    var linkvid = document.getElementsByClassName("_l6uaz")[0];
+                    var linkvid = document.getElementsByClassName("tWeCl")[0];
                     if(linkvid == undefined){
                     var length_photo = document.getElementsByClassName("FFVAD").length;
                     var linkins = length_photo - 1;
